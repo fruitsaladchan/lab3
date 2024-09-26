@@ -1,7 +1,5 @@
 # lab3
 
-## this ia a title
-
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
