@@ -1,4 +1,4 @@
-ls - list file contents
-cd - change directory
-cat - concatenate and print file
-pwd - print working directory
+- ls - list file contents
+- cd - change directory
+- cat - concatenate and print file
+- pwd - print working directory
