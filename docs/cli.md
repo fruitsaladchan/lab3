@@ -2,3 +2,4 @@
 - cd - change directory
 - cat - concatenate and print file
 - pwd - print working directory
+- emerge - cli interface to portage (gentoo package manager)
